@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Me, somewhere on a boat](/images/me.png){:height="25%" width="25%" :class="img-responsive"}
+
 Hi! I'm a PhD student in Electrical and Computer Engineering at Carnegie Mellon University. I am interested in research at the intersection of algorithms/applications and computer architecture. 
 
 In my free time, I enjoy in no particular order:
