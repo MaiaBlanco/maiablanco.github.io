@@ -1,6 +1,6 @@
 ---
 layout: cv 
-title: Mark Blanco's CV
+title: Resume
 ---
 # Mark Blanco
 PhD Student in Electrical Engineering at Carnegie Mellon University
