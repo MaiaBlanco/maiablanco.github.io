@@ -16,14 +16,15 @@
 title: Mark's Scratchpad
 email: mark.p.blanco@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An online scratchspace where I post houghts on technology or papers I'm reading, research, photography, and personal projects..
+  Here I post research I'm doing, thoughts on technology or papers I'm reading  photography, and projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.markblanco.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+#url: "http://markblan.co" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: 
 github_username:  MarkBlanco
 
 # Build settings
-markdown: kramdown
+markdown:   kramdown
+style:  davewhipp
 theme: minima
 plugins:
   - jekyll-feed
