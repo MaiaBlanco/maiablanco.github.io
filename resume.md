@@ -44,7 +44,7 @@ __Rensselaer Polytechnic Institute, Troy, NY__
 NSF Graduate Fellowship for Computer Engineering (On tenure)
 
 `2019`
-![Graph Challenge Champion at High Performance Extreme Computing](https://graphchallenge.mit.edu/champions)
+[Graph Challenge Champion](https://graphchallenge.mit.edu/champions) at High Performance Extreme Computing
 
 ## Work Experience
 `Summer 2019`
