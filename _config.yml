@@ -29,9 +29,6 @@ theme                    : "minima"
 
 # theme: jekyll-theme-so-simple
 
-plugins:
-  - jekyll-feed
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Mark's Scratchpad"
