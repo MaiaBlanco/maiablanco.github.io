@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "5700 XT Watercooling Part 2: Performance and Thermal Metrics"
-date:   2020-01-02 10:16:00 +0000
+title:  "Watercooled AMD 5700 XT Part 2: Performance and Thermal Metrics"
+date:   2020-01-02 10:16:00 -0000
 categories: electronics DIY computers GPU graphics performance gaming
 ---
-
 ### Performance delta from GCN to RDNA
 [In my last post](http://www.markblan.co/electronics/gaming/watercooling/gpus/diy/2019/11/16/5700XT-Watercooling-Part-1.html), I documented upgrading my desktop's graphics card (GPU) from an older GCN (graphics core next) architecture to a modern, RDNA-based GPU: an AMD FX 5700 XT. The more interesting part of the upgrade is that I replaced the blower-fan air cooler on the 5700 XT with an all-in-one (AIO) water cooler. The water cooler was initially designed for CPU cooling, but with a 3D printed bracket, I was able to mount it to the GPU's printed circuit board (PCB). The radiator on this AIO is actually larger than the original Corsair H100 I am _still_ using for my CPU, and is very effective for cooling the new GPU.
 
