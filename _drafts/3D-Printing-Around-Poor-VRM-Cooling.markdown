@@ -29,7 +29,7 @@ In essence, the quality of the VRM solution on a motherboard determines what pro
 So, the VRM solution on my motherboard wasn't great, and the CPU I had already required a lot of power.
 To boot, I couldn't help myself from trying to overclock the thing by _at least_ a few hundred megahertz.
 Finally, I was using an aftermarket cooling solution that did _not_ push any air down onto the board, which meant there was very little airflow for the VRMs.
-And thus the stability issues began - even at stock speeds, I started having random shutdowns that corresponded suspiciously to high VRM surface temperatures when I check with an infrared thermometer...or just put my fingers against the heatsink. Ow!
+And thus the stability issues began - even at stock speeds, I started having random shutdowns that corresponded suspiciously to high VRM surface temperatures when I checked with an infrared thermometer...or just put my fingers against the heatsink. Ow!
 
 At the time, I decided on the cheapest solution I could.
 In college, I had access to tech dumps scattered around campus, and had frequently dissected old Dell Dimension and Precision towers. 
