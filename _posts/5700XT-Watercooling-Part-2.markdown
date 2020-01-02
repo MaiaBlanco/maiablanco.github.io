@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5700 XT Watercooling Part 2: Performance and Thermal Metrics"
-date:   2020-01-02 10:16:00 +0100
+date:   2020-01-02 10:16:00 +0000
 categories: electronics DIY computers GPU graphics performance gaming
 ---
 
