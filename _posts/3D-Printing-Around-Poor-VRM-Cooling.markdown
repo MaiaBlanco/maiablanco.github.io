@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3D Printing Around Poor VRM Cooling"
-date:   2019-12-14 11:35:29 -0400
+date:   2020-02-02 22:17:29 -0400
 categories: electronics 3D-printing DIY computers
 ---
 Not too long ago, my personal desktop ran an AMD FX-8350 processor. This processor was from the early 2010s, and being an AMD processor, had extremely poor energy efficiency.
@@ -11,8 +11,11 @@ Which I did not have.
 
 At the time, to match my budget option of an AMD processor that competed with Intel only on the basis of price, I had also bought a fairly budget motherboard.
 None of those > $150, RGB-equipped, gaming-oriented bells and whistles for me.
-And thus I had a motherboard with a _very crappy_ VRM (voltage regulator module) solution...have a look for yourself:
+And thus I had a motherboard with a _very crappy_ VRM (voltage regulator module) solution...have a look for yourself (and pardon the dust):
 
+
+![Itty Bitty Heat Sink](/images/8350_VRM_Cooling/tiny_heatsink.jpg "Tiny heatsink on VRMs")
+{:height="10%" width="10%" :class="img-responsive"}
 
 See those gunmetal-colored blocks just to the right of the miniscule heatsink? 
 Those are the chokes for the VRM, and the components that are behind the heatsink would be the power switching MOSFETs.
@@ -37,9 +40,13 @@ Many of these machines had interesting ducts that forced air directly from a rea
 Taking Dell's (likely inexpensive) solution as inspiration, I CADed up a design in Onshape and printed it out.
 
 Here's the render:
+![Duct Render](/images/8350_VRM_Cooling/duct_render.PNG "Rendering of Fan Duct")
+{:height="10%" width="10%" :class="img-responsive"}
 
 
 And here's the final result:
+![Duct in Compy](/images/8350_VRM_Cooling/compy_with_duct.jpg "3D-Printed Duct Installed")
+{:height="10%" width="10%" :class="img-responsive"}
 
 
 It didn't come out perfectly, but did exactly what it needed to. 
