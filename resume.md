@@ -5,17 +5,9 @@ title: Resume
 # Mark Blanco
 PhD Student in Electrical Engineering at Carnegie Mellon University
 
-<!-- ## Currently
-
-Standing on the shoulders of giants -->
-
-<!-- ### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke) -->
-
 
 ### Research interests
-Performance modeling, High Performance Computing (HPC), computer architecture, graph processing
+Graph processing, performance modeling, High Performance Computing (HPC), computer architecture
 
 
 ## Education
@@ -34,6 +26,17 @@ __Rensselaer Polytechnic Institute, Troy, NY__
 
 
 ## Work Experience
+`Summer 2019`
+__Graduate Research Intern__
+
+*Sandia National Laboratories, Albuquerque NM*
+
+- I worked with researchers at Sandia National Labs to model and optimize a molecular dynamics approach called SNAP. 
+- I began by analyzing existing code base performance on CPU architectures from ARM, IBM, and Intel, and then I rewrote the existing approach to take advantage of SIMD hardware on all three CPU architectures. 
+- The design of this re-write was based on an analytical performance model that I began developing based on the analysis of the existing code base. 
+- We attained 1.66x to 3.22x end-to-end application speedup using the new approach and leveraging auto-vectorization in GCC across all three CPU vendors.
+
+
 `Spring and Fall 2018`
 __Graduate Teaching Assistant__
 
@@ -41,8 +44,6 @@ __Graduate Teaching Assistant__
 
 - Mentored students in lectures and in office hours on design of efficient, high performance code
 - Taught benchmarking techniques utilizing x86 ASM, compiler optimizations, use of SIMD,principles of memory hierarchy, and parallelism via OpenMP and MPI
-
-
 
 
 `Summer 2016 & 2017`
@@ -114,8 +115,17 @@ __Parallel Finite Element Analysis__
 
 ## Publications
 
-- Carothers et al. 2017. *Durango: Scalable Synthetic Workload Generation for Extreme-Scale Application Performance Modeling and Simulation.* In Proceedings of the 2017 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation (SIGSIM-PADS '17). 
-- Mandal et al. 2016. *Toward an end-to-end framework for modeling, monitoring and anomaly detection for scientific workflows.* Parallel and Distributed Processing Symposium Workshops, 2016 IEEE International.
+- (Accepted and pending publication): Azad et al. "Evaluation of Graph Analytics Frameworks Using the GAP Benchmark Suite," 2020 IEEE International Symposium on Workload Characterization
+
+- M. P. Blanco, S. McMillan, T. M. Low, "Towards an Objective Metric for the Performance of Exact Triangle Count," presented at the 2020 IEEE High Performance Extreme Computing Conference (HPEC), held virtually.
+
+- M. Blanco, T. M. Low, and K. Kim, "Exploration of Fine-Grained Parallelism for Load Balancing Eager K-truss on GPU and CPU," presented at the 2019 IEEE High Performance Extreme Computing Conference (HPEC), Waltham, MA, USA, p. 7.
+
+- U. Sridhar, M. Blanco, R. Mayuranath, D. G. Spampinato, T. M. Low, and S. McMillan, "Delta-Stepping SSSP: From Vertices and Edges to GraphBLAS Implementations," in 2019 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), 2019, pp. 241–250.
+
+- Carothers et al. 2017. "Durango: Scalable Synthetic Workload Generation for Extreme-Scale Application Performance Modeling and Simulation," In Proceedings of the 2017 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation (SIGSIM-PADS 2017).
+
+- Mandal et al. 2016. "Toward an end-to-end framework for modeling, monitoring and anomaly detection for scientific workflows." Parallel and Distributed Processing Symposium Workshops, 2016 IEEE International.
 
 ## Related Skills
 - C/C++, C#, MPI, CUDA, OpenMP
