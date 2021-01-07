@@ -125,7 +125,7 @@ __Parallel and Distributed SGD__
 ` Fall 2017`
 __Multi-kernel CNN Accelerator__
 *Project in Reconfigurable Logic (18-643)*
-- Designed and demonstrated layer-optimized CNN kernels on Zynq FGPA
+- Designed and demonstrated layer-optimized CNN kernels on Zynq FPGA
 
 `Spring 2017`
 __Parallel Finite Element Analysis__
