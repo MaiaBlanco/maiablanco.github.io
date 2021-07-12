@@ -30,17 +30,17 @@ Therefore if the multimeter detects zero resistance from any
 electrical connection to the casing, copper piping, or brew tanks,
 then the root cause is nearby.
 
-An aside: As opposed to debugging more complex electronics such as 
-computer power supplies, debugging an espresso machine is straightforward.
-Components are not as small and electrical components 
-tend to be fairly simple relays, thermistors, and resistive 
-heating coils. 
-There are no diodes or mosfets in the internal circuitry, save for 
-the PID controller.
-The PID controller for the brew tank 
-involves some closed-source circuitry but is self-contained 
-and in my experience less likely to fail than other components 
-in the espresso machine.
+>An aside: As opposed to debugging more complex electronics such as 
+>computer power supplies, debugging an espresso machine is straightforward.
+>Components are not as small and electrical components 
+>tend to be fairly simple relays, thermistors, and resistive 
+>heating coils. 
+>There are no diodes or mosfets in the internal circuitry, save for 
+>the PID controller.
+>The PID controller for the brew tank 
+>involves some closed-source circuitry but is self-contained 
+>and in my experience less likely to fail than other components 
+>in the espresso machine.
 
 In testing for shorts, I discovered that the heating element for the 
 brew water tank was shorted to the tank itself. 
@@ -56,7 +56,7 @@ This is a much larger hex socket than I've seen working on my car, so I bought a
 hex head and a cute little refurbed impact driver for the job.
 The replacement heating element came from WholeLatteLove.com.
 ![The impact driver is too small...](/images/expobar_post_2/huge_socket_tiny_impact_driver.jpg "Huge socket, tiny impact driver."){:class="img-responsive"}
-A word from the future: that impact driver is too small!
+>A word from the future: that impact driver is too small!
 
 
 #### The Fix: Removing the Borked Element ####
@@ -143,6 +143,6 @@ In a future post, I'll detail a design flaw in the brew temperature regulation o
 Brewtus IV and how I resolved it. Not to fear, the machine is still running and brewing
 delicious espressos.
 
-##### References #####
+#### References ####
 - [https://www.home-barista.com/espresso-machines/tips-on-replacing-expobar-office-boiler-heater-other-things-to-do-at-same-time-t37990.html](https://www.home-barista.com/espresso-machines/tips-on-replacing-expobar-office-boiler-heater-other-things-to-do-at-same-time-t37990.html)
 - [https://www.home-barista.com/repairs/brew-boiler-leak-and-threadlocker-t13677.html](https://www.home-barista.com/repairs/brew-boiler-leak-and-threadlocker-t13677.html)
