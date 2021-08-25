@@ -54,7 +54,6 @@ __Graduate Research Intern__
 *Software Engineering Institute, AI Division, Pittsburgh PA*
 
 - Collaborated with researchers at the AI Division of the SEI to design high-performance subroutines for graph traversal primitives in the [GraphBLAS Template Library (GBTL)](https://github.com/cmu-sei/gbtl). 
-- GraphBLAS is a community-driven effort to standardize the computational building blocks of graph algorithms 
 - GraphBLAS defines an API that enables users and developers to separate concerns of developing algorithms from writing efficient and performant code.
 
 `Summer 2019`
