@@ -26,7 +26,7 @@ __Rensselaer Polytechnic Institute, Troy, NY__
 
 ## Publications
 
-- \[Accepted; pending publication\] M. P. Blanco, S. McMillan, T. M. Low, "Delayed Asynchronous Iterative Graph Algorithms," to be presented at the 2021 IEEE High Performance Extreme Computing Conference (HPEC), held virtually.\\ 
+- \[Accepted; pending publication\] M. P. Blanco, S. McMillan, T. M. Low, "Delayed Asynchronous Iterative Graph Algorithms," to be presented at the 2021 IEEE High Performance Extreme Computing Conference (HPEC), held virtually. 
 
 - Azad et al. "Evaluation of Graph Analytics Frameworks Using the GAP Benchmark Suite," 2020 IEEE International Symposium on Workload Characterization
 
@@ -50,9 +50,12 @@ NSF Graduate Fellowship for Computer Engineering (On tenure)
 ## Work Experience
 `Summer 2021`
 __Graduate Research Intern__
+
 *Software Engineering Institute, AI Division, Pittsburgh PA*
+
 - Collaborated with researchers at the AI Division of the SEI to design high-performance subroutines for graph traversal primitives in the [GraphBLAS Template Library (GBTL)](https://github.com/cmu-sei/gbtl). 
-- GraphBLAS is a community-driven effort to standardize the computational building blocks of graph algorithms and defines an API that enables users and developers to separate concerns between developing new algorithms and writing efficient and performant backend code, respectively.
+- GraphBLAS is a community-driven effort to standardize the computational building blocks of graph algorithms 
+- GraphBLAS defines an API that enables users and developers to separate concerns of developing algorithms from writing efficient and performant code.
 
 `Summer 2019`
 __Graduate Research Intern__
