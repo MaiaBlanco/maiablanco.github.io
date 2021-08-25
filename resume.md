@@ -110,7 +110,7 @@ __Advising and Learning Assistance Center Tutor__
 
 
 
-## Projects
+## Course Projects
 `Fall 2018`
 __Social Circle Analysis__
 *Project in Machine Learning (10-701)*
