@@ -112,28 +112,28 @@ __Advising and Learning Assistance Center Tutor__
 
 
 ## Projects
-` Fall 2018`
+`Fall 2018`
 __Social Circle Analysis__
 *Project in Machine Learning (10-701)*
 - Applied autoencoders & unsupervised clustering on social network structure and content
 
-` Spring 2018`
+`Spring 2018`
 __RL DVFS Governors__
 *Work done in System Level Design group*
 - Prepared DVFS framework for students in 18-651
 - Presented poster on thermal-aware Reinforcement Learning at MLSE'18
 
-` Spring 2018`
+`Spring 2018`
 __Matrix Inversion Accelerator__
 *Project in Computer Architecture (18-742)*
 - Explored design space of cache and scratchpad accelerators using Gem5-Aladdin framework
 
-` Spring 2018`
+`Spring 2018`
 __Parallel and Distributed SGD__
 *Project in Optimization (18-660)*
 - Implemented and tested scalability of parallel and distributed SGD algorithms
 
-` Fall 2017`
+`Fall 2017`
 __Multi-kernel CNN Accelerator__
 *Project in Reconfigurable Logic (18-643)*
 - Designed and demonstrated layer-optimized CNN kernels on Zynq FPGA
