@@ -14,7 +14,7 @@ Graph processing, performance modeling, High Performance Computing (HPC), comput
 
 `Started: Sept 2017`
 __Carnegie Mellon University, Pittsburgh, PA__
-<!-- `Cumulative GPA: 3.91/4.0` -->
+<!-- `Cumulative GPA: 3.92/4.0` -->
 - Pursing PhD in High Performance Modeling and Computation
 - Advisor: Dr. Tze Meng Low, ECE Department
 
@@ -26,13 +26,13 @@ __Rensselaer Polytechnic Institute, Troy, NY__
 
 ## Publications
 
-- \[Accepted; pending publication\] M. P. Blanco, S. McMillan, T. M. Low, "Delayed Asynchronous Iterative Graph Algorithms," to be presented at the 2021 IEEE High Performance Extreme Computing Conference (HPEC), held virtually. 
+- \[Outstanding Student Paper\] M. P. Blanco, S. McMillan, T. M. Low, "Delayed Asynchronous Iterative Graph Algorithms," presented at the 2021 IEEE High Performance Extreme Computing Conference (HPEC), held virtually. 
 
 - Azad et al. "Evaluation of Graph Analytics Frameworks Using the GAP Benchmark Suite," 2020 IEEE International Symposium on Workload Characterization
 
 - M. P. Blanco, S. McMillan, T. M. Low, "Towards an Objective Metric for the Performance of Exact Triangle Count," presented at the 2020 IEEE High Performance Extreme Computing Conference (HPEC), held virtually.
 
-- M. Blanco, T. M. Low, and K. Kim, "Exploration of Fine-Grained Parallelism for Load Balancing Eager K-truss on GPU and CPU," presented at the 2019 IEEE High Performance Extreme Computing Conference (HPEC), Waltham, MA, USA, p. 7.
+- \[Graph Challenge Champion\] M. Blanco, T. M. Low, and K. Kim, "Exploration of Fine-Grained Parallelism for Load Balancing Eager K-truss on GPU and CPU," presented at the 2019 IEEE High Performance Extreme Computing Conference (HPEC), Waltham, MA, USA, p. 7.
 
 - U. Sridhar, M. Blanco, R. Mayuranath, D. G. Spampinato, T. M. Low, and S. McMillan, "Delta-Stepping SSSP: From Vertices and Edges to GraphBLAS Implementations," in 2019 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), 2019, pp. 241–250.
 
@@ -41,6 +41,9 @@ __Rensselaer Polytechnic Institute, Troy, NY__
 - Mandal et al. 2016. "Toward an end-to-end framework for modeling, monitoring and anomaly detection for scientific workflows." Parallel and Distributed Processing Symposium Workshops, 2016 IEEE International.
 
 ## Awards
+`2021` 
+Outstanding Student Paper award at IEEE High Performance Computing 2021
+
 `2019`
 NSF Graduate Fellowship for Computer Engineering (On tenure)
 
