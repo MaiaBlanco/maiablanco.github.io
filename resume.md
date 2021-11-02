@@ -26,13 +26,13 @@ __Rensselaer Polytechnic Institute, Troy, NY__
 
 ## Publications
 
-- \[Outstanding Student Paper\] M. P. Blanco, S. McMillan, T. M. Low, "Delayed Asynchronous Iterative Graph Algorithms," presented at the 2021 IEEE High Performance Extreme Computing Conference (HPEC), held virtually. 
+- __\[Outstanding Student Paper\]__ M. P. Blanco, S. McMillan, T. M. Low, "Delayed Asynchronous Iterative Graph Algorithms," presented at the 2021 IEEE High Performance Extreme Computing Conference (HPEC), held virtually. 
 
 - Azad et al. "Evaluation of Graph Analytics Frameworks Using the GAP Benchmark Suite," 2020 IEEE International Symposium on Workload Characterization
 
 - M. P. Blanco, S. McMillan, T. M. Low, "Towards an Objective Metric for the Performance of Exact Triangle Count," presented at the 2020 IEEE High Performance Extreme Computing Conference (HPEC), held virtually.
 
-- \[Graph Challenge Champion\] M. Blanco, T. M. Low, and K. Kim, "Exploration of Fine-Grained Parallelism for Load Balancing Eager K-truss on GPU and CPU," presented at the 2019 IEEE High Performance Extreme Computing Conference (HPEC), Waltham, MA, USA, p. 7.
+- __\[Graph Challenge Champion\]__ M. Blanco, T. M. Low, and K. Kim, "Exploration of Fine-Grained Parallelism for Load Balancing Eager K-truss on GPU and CPU," presented at the 2019 IEEE High Performance Extreme Computing Conference (HPEC), Waltham, MA, USA, p. 7.
 
 - U. Sridhar, M. Blanco, R. Mayuranath, D. G. Spampinato, T. M. Low, and S. McMillan, "Delta-Stepping SSSP: From Vertices and Edges to GraphBLAS Implementations," in 2019 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), 2019, pp. 241–250.
 
