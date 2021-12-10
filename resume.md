@@ -3,11 +3,16 @@ layout: cv
 title: Curriculum Vitae
 ---
 # Mark P. Blanco
-PhD Candidate in Electrical Engineering at Carnegie Mellon University
+I am a PhD Candidate at the Carnegie Mellon University Department of Electrical and Computer Engineering.
+
+My PhD work focuses on high-performance algorithms, architectures, and techniques for graph processing, as well as development of analytical performance models for scientific (HPC) workloads.
+
+Post graduation, I am interested in research in either industry or national labs where I can have an impact on computer architectures, performance, and workloads that drive science and society.
+
 
 
 ### Research interests
-Graph processing, performance modeling, High Performance Computing (HPC), computer architecture
+Graph processing, performance modeling, High Performance Computing (HPC), computer architecture, scientific computing
 
 
 ## Education
@@ -15,7 +20,7 @@ Graph processing, performance modeling, High Performance Computing (HPC), comput
 `Started: Sept 2017`
 __Carnegie Mellon University, Pittsburgh, PA__
 <!-- `Cumulative GPA: 3.92/4.0` -->
-- Pursing PhD in High Performance Modeling and Computation
+- Pursing PhD in High Performance Modeling and Computation for Graph Algorithms
 - Advisor: Dr. Tze Meng Low, ECE Department
 
 `Graduated: May 2017`
