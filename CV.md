@@ -7,7 +7,7 @@ I am a PhD Candidate at the Carnegie Mellon University Department of ECE.
 
 My PhD work focuses on high-performance algorithms, architectures, and techniques for graph processing and development of analytical performance models for scientific (HPC) workloads.
 
-I am interested in research in industry or national labs where I will have an impact on computer architectures, performance, and workloads that drive science and society.
+I am interested in research in industry where I will have an impact on computer architectures, performance, and workloads that drive science and society.
 
 
 ## Research Interests
