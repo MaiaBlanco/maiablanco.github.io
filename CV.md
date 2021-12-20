@@ -120,6 +120,7 @@ __Undergraduate Computer Science Researcher__
 - Created MPI-based hybrid simulator for parallel workload modeling on supercomputers
 - Learned principles of efficient distributed code for use on HPC systems
 - Work incorporated into publication of *Durango* in SIGSIM-PADS'17
+- Learned use of SLURM on RPI's Blue Gene Q Supercomputer
 
 
 `Spring 2014 - Fall 2014`
@@ -165,6 +166,7 @@ __Parallel Finite Element Analysis__
 
 ## Related Skills
 - C/C++, OpenMP, limited MPI, CUDA, and C#
+- SLURM and PBS job scheduling on HPC systems
 - Python, Git, MATLAB, Bash, limited JavaScript
 - Experience in technical writing and presentation
 - Vivado HLS, embedded programming, PCB design
