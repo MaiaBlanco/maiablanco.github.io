@@ -16,7 +16,7 @@ Graph processing, performance modeling, High Performance Computing (HPC), comput
 
 ## Education
 
-`Expected Graduation: Fall 2022`
+`Expected Graduation: December 2022`
 __PhD Candidate__
 
 *Carnegie Mellon University, Pittsburgh, PA*
