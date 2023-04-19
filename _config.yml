@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-email: mark.p.blanco@gmail.com
+email: maia.p.blanco@gmail.com
 
 #twitter_username: 
-github_username:  MarkBlanco
+github_username:  MaiaBlanco
 
 # Build settings
 markdown:   kramdown
@@ -31,14 +31,14 @@ theme                    : "minima"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mark's Scratchpad"
+title                    : "Maia's Scratchpad"
 title_separator          : "-"
-name                     : "Mark Blanco"
+name                     : "Maia Blanco"
 description: >- # this means to ignore newlines until "url:"
   Here I post research I'm doing, thoughts on technology and papers I'm reading, photography, and projects.
 url: "http://markblan.co" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
-repository: MarkBlanco/markblanco.github.io
+repository: MaiaBlanco/maiablanco.github.io
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 # masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
