@@ -5,7 +5,7 @@ title: About
 permalink: /about/
 ---
 
-![Me, in Rio at my first Conference](/images/me.png){:height="25%" width="25%" :class="img-responsive"}
+<!-- ![Me, in Rio at my first Conference](/images/me.png){:height="25%" width="25%" :class="img-responsive"} -->
 
 #### Intro
 Hi! I'm a PhD student in Electrical and Computer Engineering at Carnegie Mellon University. I am interested in research at the intersection of algorithms/applications and computer architecture. 
