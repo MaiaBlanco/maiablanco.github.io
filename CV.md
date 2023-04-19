@@ -2,7 +2,7 @@
 layout: cv 
 title: Curriculum Vitae
 ---
-# Mark P. Blanco
+# Maia P. Blanco
 I am a PhD Candidate at the Carnegie Mellon University Department of ECE.
 
 My PhD work focuses on high-performance algorithms, architectures, and techniques for graph processing and development of analytical performance models for scientific (HPC) workloads.
